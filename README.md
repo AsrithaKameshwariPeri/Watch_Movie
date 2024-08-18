@@ -61,3 +61,4 @@ This repository contains a project developed as an assignment on the **"Web Deve
 
 - Course Instructor - [Jose Salvatierra - TecladoCode](https://github.com/tecladocode)
 - Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+"# movie_list" 
